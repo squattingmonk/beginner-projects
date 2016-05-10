@@ -1,6 +1,5 @@
-''' pythagorean_triples.py: When given the sides of a triangle, tells the user whether the triangle is a right triangle.
-
-Project found pn https://www.reddit.com/r/beginnerprojects/comments/19jwi6/project_pythagorean_triples_checker/ '''
+''' pythagorean_triples.py: When given the sides of a triangle, tells the user
+    whether the triangle is a right triangle. Based on https://www.redd.it/19jwi6 '''
 
 while True:
     sides = input('Enter the three sides of a triangle, separated by spaces: ')

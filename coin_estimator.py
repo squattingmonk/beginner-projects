@@ -1,6 +1,4 @@
-''' coin_estimator.py: Estimates how many coin wrappers the user will need to roll the given weight of each coin.
-
-Project found on while https://www.reddit.com/r/beginnerprojects/comments/1idqw1/project_coin_estimator_by_weight/ '''
+''' coin_estimator.py: Estimates how many coin wrappers the user will need to roll the given weight of each coin. Project found on https://www.redd.it/1idqw1 '''
 
 from collections import namedtuple
 

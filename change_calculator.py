@@ -1,4 +1,5 @@
-"""Change calculator: calculates the change in currency and coins owed to a customer."""
+""" Change calculator: calculates the change in currency and coins owed to a
+    customer. Based on https://redd.it/19jkn8 """
 
 def make_change(amount):
     change = []

@@ -1,6 +1,5 @@
 ''' magic_8_ball.py: Responds with a random answer to the user's question.
-
-Project found on https://www.reddit.com/r/beginnerprojects/comments/29aqox/project_magic_8_ball/ '''
+    Project found on https://www.redd.it/29aqox '''
 
 import time
 import random
