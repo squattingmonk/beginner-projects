@@ -8,3 +8,4 @@ This repository represents my attempts at learning to code by following the exer
 - [Coin Estimator by Weight](https://www.redd.it/1idqw1)
 - [Change Calculator](https://www.redd.it/19jkn8)
 - [Mean, Median, and Mode](https://redd.it/1eqt8i)
+- [Higher-Lower Guessing Game](https://redd.it/19jj9a)
