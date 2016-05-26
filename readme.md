@@ -9,3 +9,4 @@ This repository represents my attempts at learning to code by following the exer
 - [Change Calculator](https://www.redd.it/19jkn8)
 - [Mean, Median, and Mode](https://redd.it/1eqt8i)
 - [Higher-Lower Guessing Game](https://redd.it/19jj9a)
+- [Fibonacci Function](https://redd.it/19r3qg)
