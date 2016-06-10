@@ -13,3 +13,4 @@ This repository represents my attempts at learning to code by following the exer
 - [Fibonacci Function](https://redd.it/19r3qg)
 - [Menu Calculator](https://redd.it/1bytu5)
 - [Die Roller](https://redd.it/1j50e7)
+- [Green Eggs and Ham](https://redd.it/1i6sax)
