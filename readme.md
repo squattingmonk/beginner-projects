@@ -11,3 +11,4 @@ This repository represents my attempts at learning to code by following the exer
 - [Higher-Lower Guessing Game](https://redd.it/19jj9a)
 - [Multiplication Table](https://redd.it/2agwnq)
 - [Fibonacci Function](https://redd.it/19r3qg)
+- [Menu Calculator](https://redd.it/1bytu5)
