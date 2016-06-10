@@ -12,3 +12,4 @@ This repository represents my attempts at learning to code by following the exer
 - [Multiplication Table](https://redd.it/2agwnq)
 - [Fibonacci Function](https://redd.it/19r3qg)
 - [Menu Calculator](https://redd.it/1bytu5)
+- [Die Roller](https://redd.it/1j50e7)
