@@ -39,7 +39,8 @@ while True:
         per = menu[item][1]
         cost = per * count
         total += cost
-        print(menu[item][0].ljust(15), count, '@', '${:3.2f}'.format(per), '\t$' + '{:.2f}'.format(cost).rjust(5))
+        print(menu[item][0].ljust(15), count, '@', '${:3.2f}'.format(per),
+                '\t$' + '{:.2f}'.format(cost).rjust(5))
 
     print('-' * 38)
     print('Total', '${:,.2f}'.format(total).rjust(32))
