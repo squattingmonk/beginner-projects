@@ -15,3 +15,4 @@ This repository represents my attempts at learning to code by following the exer
 - [Die Roller](https://redd.it/1j50e7)
 - [Green Eggs and Ham](https://redd.it/1i6sax)
 - [What's My Number](https://redd.it/1dbena)
+- [Factors](https://redd.it/1a0d82)
