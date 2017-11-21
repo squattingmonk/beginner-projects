@@ -12,5 +12,5 @@ while number is None:
     except ValueError:
         print('Error: please enter a non-zero positive integer.')
 
-print(factors)
 factors = [x for x in range(1, number + 1) if number % x == 0]
+print(factors)
